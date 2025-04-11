@@ -1,2 +1,6 @@
 Criando um arquivo no repositório remoto diretamente pela página do repositório
+<<<<<<< HEAD
 Conteúdo adicionado na nova branch.
+=======
+Atualizanzo a branch
+>>>>>>> origin/main
